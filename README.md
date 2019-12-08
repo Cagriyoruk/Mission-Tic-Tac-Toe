@@ -14,8 +14,4 @@ React Native app for a Tic-Tac-Toe game.
 
 
 # Reference
-Proprogramming 101 https://www.youtube.com/watch?v=Sgh9FtQXwd0
-
-
-
-
+ProProgramming101: https://www.youtube.com/watch?v=Sgh9FtQXwd0
