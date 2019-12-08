@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "mission_tic_tac_toe",
+    "description": "Mini project3",
+    "slug": "snack-edc4d313-a6e3-4a1d-a0dd-c88b057fa96c",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "loading": {
+      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
