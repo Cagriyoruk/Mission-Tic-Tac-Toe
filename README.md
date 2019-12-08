@@ -1,11 +1,13 @@
-# Sample Snack app
+# Mission Tic-Tac-Toe
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+React Native app for a Tic-Tac-Toe game. When you press New Game. It starts the game and counts the winners until you press it again. If a tie happens, You can restart the board with the reset button.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+# Iphone 6
+<img width="188" alt="mission_tic_tac_toe" src="https://user-images.githubusercontent.com/55101879/70382549-1f251200-192c-11ea-92f8-d716a978c5c3.png"> 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+# Samsung Galaxy S7 Edge
+![WeChat Image_20191207195642](https://user-images.githubusercontent.com/55101879/70382558-3e23a400-192c-11ea-82d2-1efcdc2079c6.jpg)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+# Reference
+Proprogramming 101 https://www.youtube.com/watch?v=Sgh9FtQXwd0
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
