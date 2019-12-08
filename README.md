@@ -1,6 +1,10 @@
 # Mission Tic-Tac-Toe
 
-React Native app for a Tic-Tac-Toe game. When you press New Game. It starts the game and counts the winners until you press it again. If a tie happens, You can restart the board with the reset button.
+React Native app for a Tic-Tac-Toe game. 
+- Press New Game to start the game.
+- It will count the winner.
+- In case of TIE press reset board to restart the game.
+- To start a New Game press New game button. 
 
 # IOS
 <img width="188" alt="mission_tic_tac_toe" src="https://user-images.githubusercontent.com/55101879/70382549-1f251200-192c-11ea-92f8-d716a978c5c3.png"> 
