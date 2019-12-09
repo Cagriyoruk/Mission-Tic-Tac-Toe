@@ -1,4 +1,4 @@
-# Mission Tic-Tac-Toe
+# Mission Tic-Tac-Toe / EC601 Mini Project 3
 
 React Native app for a Tic-Tac-Toe game. 
 - Press New Game to start the game.
