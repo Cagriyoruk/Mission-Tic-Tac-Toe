@@ -24,5 +24,3 @@ Expo snack is a development platform for React applications. There is also a pre
 ![WeChat Image_20191207195642](https://user-images.githubusercontent.com/55101879/70382558-3e23a400-192c-11ea-82d2-1efcdc2079c6.jpg)                                    ![WeChat Image_20191207230322](https://user-images.githubusercontent.com/55101879/70384014-e6923200-1945-11ea-98fd-4bd6075ef39a.jpg)
 
 
-### Reference
-ProProgramming101: https://www.youtube.com/watch?v=Sgh9FtQXwd0
